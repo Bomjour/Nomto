@@ -142,5 +142,7 @@ $RECYCLE.BIN/
 # Bundle files
 public/bundle.js
 public/bundle.js.map
+.vscode
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,node
